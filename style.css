@@ -1,0 +1,41 @@
+body {
+  margin-top: 50px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #ffdfeb;
+  background-image: url('img/mejaestetik.png');
+  background-attachment: fixed;
+  background-size: cover;
+  color: aliceblue;
+}
+
+.jumbotron h1 {
+  text-shadow: 3px 2px 0.5px rgb(121, 42, 72);
+}
+
+a {
+  color: inherit;
+}
+
+.medsos {
+  padding: 5px;
+  background-color: #ffdfeb;
+}
+
+.medsos ul li {
+  display: inline-block;
+  color: #c56e8e;
+  margin: 0px 30px;
+  font-size: 50px;
+}
+
+.footer {
+  padding: 20px 0px;
+}
+
+#about,
+#something {
+  padding-top: 5rem;
+}
